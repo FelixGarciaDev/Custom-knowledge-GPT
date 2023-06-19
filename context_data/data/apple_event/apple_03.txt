@@ -1,0 +1,43 @@
+Apple Event 2023: conoce todas las novedades del WWDC
+La popular marca de tecnología presenta una actualización del lanzamiento de sus productos
+
+La empresa de tecnología Apple presenta la conferencia anual de desarrolladores, conocida como WWDC, escenario en el que se revelan los nuevos sistemas operativos, como iOS 17, iPadOS 17, macOS 14, watchOS 10 y tvOS 17. 
+
+En ocasiones, la WWDC anuncia el lanzamiento de nuevos dispositivos, especialmente los modelos Pro de Mac que son adecuados para desarrolladores.
+
+Usuarios contemplan la presentación de los nuevos dispositivos Mac Pro e iMac en uno de los acontecimientos más esperados por los amantes y trabajadores del campo tecnológico. Este evento estaría marcado por el debut de una nueva categoría de productos relacionados con la realidad virtual.
+
+La conferencia anual de desarrolladores Apple, conocida como WWDC, siempre es el escenario en el que se revelan los nuevos sistemas operativos como iOS 17, iPadOS 17, macOS 14, watchOS 10 y tvOS 17. 
+
+Tim Cook, CEO de Apple, comenzó la conferencia con la presentación de la MacBook Air de 15 pulgadas.
+
+¿Cuáles son los productos anunciados por Apple en 2023?
+Apple Event 2023: conoce todas las novedades del WWDC
+Desarrolladores y miembros de los medios de comunicación observan presentaciones durante el discurso principal de la Conferencia Mundial de Desarrolladores de Apple (WWDC) 2023 en el campus de Apple Park en Cupertino, California, Estados Unidos | EFE/EPA/JOHN G. MABANGLO
+MacBook Air de 15 pulgadas
+Posee un diseño delgado de solo 11,5 milímetros de grosor. El modelo incluye dos puertos USB-C y un puerto de audio jack para auriculares. Su precio es de $1.299 dólares y estaría disponible desde la próxima semana.
+
+Mac Studio 
+Tiene una actualización con versiones que forman los componentes chips M2 Max y M2 Ultra que estarán a la venta desde $6.999 dólares, cambios que incrementan significativamente la potencia de este sistema de escritorio.
+
+Vision Pro
+Apple presentó su dispositivo de realidad aumentada, lo que más se esperaba de este evento. Se trata de una nueva forma de computadora que combina el mundo virtual con el real. Tim Cook lo definió como un canvas infinito, pues permitirá que se vean películas y hasta deportes con audio espacial.Su precio es de 3,499 dólares y estará disponible a inicios del año 2024.
+
+Vision Pro combinará gestos de manos para que la interacción se sienta natural, además de permitir comandos de voz para simplificar la experiencia. Este es un dispositivo que promete no apartar al usuario de su entorno, porque incluye la función EyeSight, una función para que otros vean los ojos del usuario mientras este también ve lo que pasa en el exterior.
+
+Este dispositivo también permitirá tomar fotografías. Respecto al diseño, la empresa se basó en su experiencia con el Apple Watch y los AirPods Max. Se ajusta con un dial que se acomoda en relación al tamaño de la cabeza del usuario. Ofrece un uso durante todo el día cuando está conectado y dos horas de duración cuando está conectado a una batería externa.
+
+Apple incorpora nuevas funciones
+NaeDrop: esta nueva característica, inspirada en AirDrop, permite la transferencia de direcciones de correo electrónico y números de teléfono simplemente acercando dos iPhones. 
+
+Con el fin de agilizar la información compartida, esta versión también incluirá mejoras en la autocorrección. Se incluyó un atajo para revertir rápidamente a la palabra original, lo que facilitará la corrección de errores y mejorará la experiencia de escritura. 
+
+Estas mejoras están impulsadas por la inteligencia artificial, brindando una funcionalidad más inteligente y precisa.
+
+StandBy: este modo se activará cuando el teléfono esté conectado a la carga, transformando el dispositivo en un reloj. La pantalla permanecerá encendida, mostrando información útil como el clima y recordatorios. 
+
+Incluso puede utilizarse como un marco de fotos digital, agregando un toque personalizado durante la carga. La función StandBy es una adición versátil y práctica que aprovecha al máximo la funcionalidad del teléfono en todo momento.
+
+Siri: otra de las innovaciones de iOS 17 es que ya no tendrás que decir “Oye, Siri”, sino solamente “Siri”.
+
+Live Activities: esta función será para rastrear actividades como los pedidos de Uber, un vuelo y más widgets que se pueden usar en el dispositivo. La app de Salud también tendrá innovaciones para dar más datos sobre cada uno de los aspectos que el usuario permite rastrear.
